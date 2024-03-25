@@ -28,13 +28,12 @@ Follow Our Guidelines: Whether it's a code commit, design mockup, or content cre
 Submit Your Contribution: Once your contribution is ready and meets our quality standards, submit it for review. We appreciate concise, well-documented submissions that align with our mission and values.
 Participate in the Review Process: Be open to feedback and participate in discussions. The review process ensures that all contributions align with our vision and standards.
 
-### Conclusion
-Your contributions are invaluable to us at Llamaduck Design as we strive to lead in the digital landscape with innovative and user-centered solutions. By contributing, you're not just joining a project; you're becoming part of a community dedicated to making technology more intuitive and enjoyable for everyone. Let's innovate, design, and develop together, pushing the boundaries of what's possible in the digital world.
-
 
 
 ## 👩‍💻 Resources
-where can the community find your docs? Is there anything else the community should know?
+Website: [llamaduckdesign.com](https://llamaduckdesign.com/)
+Instagram: [llamaduck_design](https://www.instagram.com/llamaduck_design/)
+
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
