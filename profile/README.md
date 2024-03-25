@@ -32,8 +32,8 @@ Participate in the Review Process: Be open to feedback and participate in discus
 
 ## 👩‍💻 Resources
 Website: [llamaduckdesign.com](https://llamaduckdesign.com/)
-Instagram: [llamaduck_design](https://www.instagram.com/llamaduck_design/)
 
+Instagram: [llamaduck_design](https://www.instagram.com/llamaduck_design/)
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
