@@ -13,6 +13,6 @@
 
 
 ## About us
-Cameron Auler
-Veasey Jackson
-Sam Monohan
+- Cameron Auler
+- Veasey Jackson
+- Sam Monohan
