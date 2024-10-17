@@ -39,6 +39,7 @@ Our team is a dynamic group of AI and design experts committed to pushing the bo
 - **Cameron Auler** – Lead Software Engineer
 - **Veasey Jackson** – Senior UI/UX, Brand Designer
 - **Sam Monohan** – Full-Stack Developer
+- **Mahidhar Naraharisetty** - Full-Stack Developer
 
 
 ## 💡 Core Values
