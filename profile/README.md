@@ -37,7 +37,7 @@ For those already part of the team:
 Our team is a dynamic group of AI and design experts committed to pushing the boundaries of AI technology. Here are some of our key members:
 
 - **Cameron Auler** – Lead Software Engineer
-- **Veasey Jackson** – Senior UI/UX, Brand Designer
+- **Veasey Jackson** – Lead Product Designer
 - **Sam Monohan** – Full-Stack Developer
 - **Mahidhar Naraharisetty** - Full-Stack Developer
 
