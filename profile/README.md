@@ -9,7 +9,7 @@ Our vision is to lead the transformation of the AI landscape, setting new standa
 | Project | Description | Status |
 | ------- | ----------- | ------ |
 | [Aim Fitness](https://www.aimfitness.app/) | Artificial Intelligence Motivator. | Early-stage Development |
-| [mmm (mealmakingmonkey](https://www.mealmakingmonkey.com/) | Customized meal planning with AI. | **`Active`** |
+| [mmm (mealmakingmonkey)](https://www.mealmakingmonkey.com/) | Customized meal planning with AI. | **`Active`** |
 | [Bastion Security](https://www.bastionsecurity.systems/) | Cybersecurity powered by AI. | Started |
 | [Verve](https://vervelanguage.app/) | Language Acquisition using AI. | Mid-stage Development |
 | [TheURLToolkit](https://www.theurltoolkit.com/) | URL resource cache. | Started |
